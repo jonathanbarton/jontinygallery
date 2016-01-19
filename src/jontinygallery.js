@@ -1,3 +1,4 @@
+//https://jsfiddle.net/2kqd1v20/
 $(document).ready(function() {
   $("#gallery").each(function() {
     var slider = $(this);

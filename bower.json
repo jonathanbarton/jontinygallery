@@ -1,0 +1,18 @@
+{
+  "name": "jontinygallery",
+  "version": "0.0.1",
+  "authors": "Jonathan Barton",
+  "description": "Simple plugin for flipping images.",
+  "main": "src/js/jontinygallery.js",
+  "keywords": [
+    "gallery",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test"
+  ]
+}
